@@ -1,0 +1,7 @@
+.env/
+v.env/
+.git/
+*.sw[a-z]
+.idea/
+*.py[a-z]
+__pycache__/
